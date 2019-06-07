@@ -1,4 +1,4 @@
-![/img/futuredev.png](/home/kiwon/MEGA/future.dev/img/futuredev.png)
+![미래당 개발자 모임](./img/futuredev.png)
 
 # future-dev
 
